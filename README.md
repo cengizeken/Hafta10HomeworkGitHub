@@ -31,3 +31,7 @@ lokaldeki dev branch ı altındaki dosyalar ve folder lar, remote daki dev branc
 
 main branch ında iken, git merge dev komutu ile, dev deki değişiklikleri
 main a gönderiyoruz.
+
+git fetch ile githubda oluştutulan branch ı listeleyebiliriz
+git fetch -p ile githubdaki elle silinen branchları sileriz
+git branch -d test ile localdaki test branch ını sileriz
