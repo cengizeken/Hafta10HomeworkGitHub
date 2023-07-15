@@ -28,3 +28,6 @@ lokaldeki dev branch ı altındaki dosyalar ve folder lar, remote daki dev branc
 ![Main Branch Görüntüsü](mainBranch.png)
 
 ![Dev branch ile main branch merge edildi.Dev deki değişiklikler main e aktarıldı](devMergedIntoMain.png)
+
+main branch ında iken, git merge dev komutu ile, dev deki değişiklikleri
+main a gönderiyoruz.
