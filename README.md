@@ -22,3 +22,5 @@ Branching kısmı ile ilgili olan değişiklikler dev branchı altında yer alac
 
 lokaldeki dev branch ı altındaki dosyalar ve folder lar, remote daki dev branch ına aktarıldı
 ![Alt text](image-1.png)
+
+![Dev Branch Görüntüsü](devBranch.png)
