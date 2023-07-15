@@ -24,3 +24,5 @@ lokaldeki dev branch ı altındaki dosyalar ve folder lar, remote daki dev branc
 ![Alt text](image-1.png)
 
 ![Dev Branch Görüntüsü](devBranch.png)
+
+![Main Branch Görüntüsü](mainBranch.png)
