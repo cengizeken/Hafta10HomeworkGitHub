@@ -26,3 +26,5 @@ lokaldeki dev branch ı altındaki dosyalar ve folder lar, remote daki dev branc
 ![Dev Branch Görüntüsü](devBranch.png)
 
 ![Main Branch Görüntüsü](mainBranch.png)
+
+![Dev branch ile main branch merge edildi.Dev deki değişiklikler main e aktarıldı](devMergedIntoMain.png)
