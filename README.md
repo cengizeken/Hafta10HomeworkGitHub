@@ -19,3 +19,6 @@ git branch dev komutu ile lokalde de bir dev branch ı oluştur. Komut ekranınd
 ![Alt text](image.png)
 
 Branching kısmı ile ilgili olan değişiklikler dev branchı altında yer alacak
+
+lokaldeki dev branch ı altındaki dosyalar ve folder lar, remote daki dev branch ına aktarıldı
+![Alt text](image-1.png)
